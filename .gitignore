@@ -1,0 +1,5 @@
+_site/
+drafts/
+.sass-cache/
+*.sh
+Dockerfile
