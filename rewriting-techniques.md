@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: false
+source: http://www.conanhughes.com/2011/07/rewriting-techniques.html
+title: Rewriting Techniques by Hughes Conan
 ---
-
-# Rewriting Techniques by Hughes Conan
 
 ## Synonyms
 The easiest way to rewrite an article is to choose some words and replace them with words of equivalent meaning.
